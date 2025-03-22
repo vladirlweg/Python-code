@@ -5,6 +5,8 @@
 # The table should contain two columns, one for email address and one for number
 # of counts.
 
+# (This code was taken from the course!!!!)
+
 import sqlite3
 
 conn = sqlite3.connect('emaildb.sqlite')
